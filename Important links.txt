@@ -1,0 +1,5 @@
+XLearn Example - https://xlearn-doc.readthedocs.io/en/latest/
+
+LIBFM documentation - http://www.libfm.org/libfm-1.42.manual.pdf
+
+LibFM Groups and Forum - https://groups.google.com/forum/#!forum/libfm
